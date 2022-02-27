@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commission from the right honourable the lord high chancellor, the lord high treasurer, the lord bishop of London, and the dean of St. Pauls. To the right honorable the lord chief justice of the Common Pleas, Mr. Justice Hyde, Mr. Attorney Generall and others. Concerning the arrears of impropriations, and other ecclesiasticall livings, &amp;c. granted by His Sacred Majesty to the said lord high chancellor, lord high treasurer, lord bishop of London, and dean of St. Pauls. For and towards the repair of the Cathedrall Church of St. Paul London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80239</idno>
+            <idno type="STC">Wing C5551C</idno>
+            <idno type="STC">ESTC R174184</idno>
+            <idno type="EEBO-CITATION">47682874</idno>
+            <idno type="OCLC">ocm 47682874</idno>
+            <idno type="VID">172828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2651:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commission from the right honourable the lord high chancellor, the lord high treasurer, the lord bishop of London, and the dean of St. Pauls. To the right honorable the lord chief justice of the Common Pleas, Mr. Justice Hyde, Mr. Attorney Generall and others. Concerning the arrears of impropriations, and other ecclesiasticall livings, &amp;c. granted by His Sacred Majesty to the said lord high chancellor, lord high treasurer, lord bishop of London, and dean of St. Pauls. For and towards the repair of the Cathedrall Church of St. Paul London.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Hodgkinson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England) --  Maintenance and repair --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172828:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>A COMMISSION FROM The Right Honourable the Lord High Chancellor, the Lord High Treaſurer, the Lord Biſhop of <hi>London,</hi> and the Dean of St. <hi>Pauls.</hi>
+            </p>
+            <p>TO <hi>The Right Honorable the Lord Chief Juſtice of the Common Pleas, Mr. Juſtice</hi> Hyde, <hi>Mr. Attorney Generall and others.</hi>
+            </p>
+            <p>Concerning The Arrears of Impropriations, and other Eccleſiaſticall Livings, &amp;c.</p>
+            <p>Granted by his <hi>SACRED MAJESTY To the ſaid Lord High Chancellor, Lord High Treaſurer, Lord Biſhop of</hi> London, <hi>and Dean of St.</hi> Pauls.</p>
+            <p>For and towards The Repair of the Cathedrall Church of St. PAUL <hi>London.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>R. Hodgkinſon,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172828:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:172828:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>A COMMISSION FROM The Right Honourable the Lord High Chancellor, the Lord High Treaſurer, the Lord Biſhop of <hi>London,</hi> and the Dean of St. <hi>Pauls.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O all whom theſe preſents ſhall come, The Right Honourable <hi>Edward</hi> Earl of <hi>Clarendon</hi> Lord High Chancellor of <hi>Eng<g ref="char:EOLhyphen"/>land, Thomas</hi> Earle of <hi>South<g ref="char:EOLhyphen"/>hampton</hi> Lord High Treaſurer of <hi>England,</hi> The Right Reverend Father in God <hi>Gilbert</hi> Lord Biſhop of <hi>London,</hi> and <hi>John Barwick</hi> Dr. in Divinity, Dean of the Cathedrall Church of St. <hi>Paul</hi> in <hi>London,</hi> ſend Greeting. Where<g ref="char:EOLhyphen"/>as the Kings moſt Excellent Majeſty that now is by His Letters Patents under the Great Seal of <hi>England,</hi> bearing date at <hi>Weſtminſter</hi> the third day of <hi>December</hi> laſt paſt (reciting
+<pb n="2" facs="tcp:172828:3"/>
+               <!-- PDF PAGE 39 -->as therein is recited) did give and Grant unto the ſaid <hi>Edward</hi> Earl of <hi>Clarendon, Thomas</hi> Earl of <hi>Southampton, Gilbert</hi> Lord Biſhop of <hi>London,</hi> and Dr. <hi>John Barwick,</hi> all arrears of rents, ſumme and ſummes of money, and pro<g ref="char:EOLhyphen"/>fits of all and ſingular the Manors, Lands, Te<g ref="char:EOLhyphen"/>nements and Hereditaments; and alſo of all im<g ref="char:EOLhyphen"/>propriate Rectories, Vicaridges, Donatives, Por<g ref="char:EOLhyphen"/>tions of Tythes and Gleab Lands, and all other duties and payments which heretofore belonged to any Archbiſhop, Biſhop, Dean, Dean and Chapter, Prebend, Canon, Rector, or other Ec<g ref="char:EOLhyphen"/>cleſiaſticall perſon or perſons whatſoever: And alſo all duties, ſumme and ſummes of money pay<g ref="char:EOLhyphen"/>able in lieu of Tythes, Oblations, Obventions, and other Profits and Duties whatſoever be<g ref="char:EOLhyphen"/>longing to any of the ſaid Rectories, Vicaridges or Donatives, and which grew due during the late Diſtractions, and before the reſpective Proprie<g ref="char:EOLhyphen"/>tors thereof were reſtored, reinveſted and ſettled in the poſſeſsion of the ſame remaining in the hands of any Treaſurer, Receiver, Farmer or Collector, and not pardoned by the late Act of Free and Generall Pardon, Indempnity and Oblivion: And all other Tythes impropriate, Oblations, Obventions, Penſions, Portions of Tythes, ap<g ref="char:EOLhyphen"/>propriate Offerings, Fee-farme Rents iſſuing out of Tythes, and other things whatſoever; which
+<pb n="3" facs="tcp:172828:3"/>
+               <!-- PDF PAGE 39 -->in and by a late pretended Act or Ordinance made in the year of our Lord one thouſand ſix hundred forty nine, were veſted or ſettled in, or mentioned, adjudged or deemed to be in the actuall ſeiſin or poſſeſsion of certain perſons thereby appointed, or mentioned to be appoin<g ref="char:EOLhyphen"/>ted Truſtees touching the ſame, which have not been by them or their order disburſed, diſpoſed, or imployed for the maintenance of Mi<g ref="char:EOLhyphen"/>niſters and other uſes, according to the ſaid pre<g ref="char:EOLhyphen"/>tended Act or Ordinance, or any other pretended Act, Order or Ordinance made or pretended to be made in the years of our Lord, one thouſand ſix hundred and fifty, one thouſand ſix hundred fifty four, and one thouſand ſix hundred fifty and ſix, by an Aſſembly aſſuming the power of Parliament, according to the intention of ſuch pretended Act, Acts, or Ordinances, before the firſt day of <hi>June</hi> in the year of our Lord one thouſand ſix hundred and ſixty, and which are not pardoned by the ſaid Act of Free and Generall Pardon, Indemnity and Oblivion, and were any way ſetled and veſted in his ſaid Majeſty; and alſo all bonds, obliga<g ref="char:EOLhyphen"/>tions, and other ſecurities entred into for the ſame, or any part thereof, to have, hold and enjoy the ſame unto the ſaid Earl of <hi>Clarendon, Tho<g ref="char:EOLhyphen"/>mas</hi> Earl of <hi>Southampton, Gilbert</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London,</hi> and <hi>John Barwick,</hi> their Exe<g ref="char:EOLhyphen"/>cutors,
+<pb n="4" facs="tcp:172828:4"/>
+               <!-- PDF PAGE 40 -->Adminiſtrators and Aſsignes without ac<g ref="char:EOLhyphen"/>compt or other allowance whatſoever. To the intent nevertheleſs that the ſame ſhould and might wholly goe and be applyed towards the repairing, adorning and beautifying of the Cathedrall Church of St. <hi>Paul</hi> in <hi>London,</hi> according to His Ma<g ref="char:EOLhyphen"/>jeſties gracious and pious intentions in the ſaid Letters Patents expreſſed, and in ſuch manner as they the ſaid <hi>Edward</hi> Earle of <hi>Clarendon, Thomas</hi> Earl of <hi>Southampton, Gilbert</hi> Lord Biſhop of <hi>London,</hi> and <hi>John Barwick</hi> their Executors, Adminiſtrators or Aſsignes in their diſ<g ref="char:EOLhyphen"/>cretions ſhould think moſt conducing to the better compaſsing and effecting of that pious work, there<g ref="char:EOLhyphen"/>by impowring them to find out, ſeize, ſue for, and recover the ſame by Commiſsion, Inquiſition, or any other lawfull means or wayes whatſoever, ei<g ref="char:EOLhyphen"/>ther in the name of his Majeſty, or in their own names; and alſo to agree and compound for the ſame, and give Acquittances and Diſcharges up<g ref="char:EOLhyphen"/>on payment thereof; and to ſend for and require all Papers, Books, Writings and Evidences re<g ref="char:EOLhyphen"/>lating thereunto, as in and by the ſaid Letters Patents (amongst divers other things therein con<g ref="char:EOLhyphen"/>tained) relation being thereunto had, may more fully and at large appear. Now know ye, that the ſaid <hi>Edward</hi> Earl of <hi>Clarendon, Thomas</hi> Earl of <hi>Southampton,</hi> Gibbert Lord Biſhop of
+<pb n="5" facs="tcp:172828:4"/>
+               <!-- PDF PAGE 40 -->
+               <hi>London,</hi> and <hi>John Barwick,</hi> for the more ſpee<g ref="char:EOLhyphen"/>dy and effectuall proſecuting and effecting the in<g ref="char:EOLhyphen"/>tent of his ſaid Majeſties Grant, and for the ad<g ref="char:EOLhyphen"/>vancement and carrying on of ſo pious a work, and for other good cauſes thereunto moving, have made; nominated, conſtituted and appointed, and by theſe preſents doe make, nominate, conſtitute and appoint the Right Honourable Sir <hi>Orlando Bridgeman</hi> Knight and Baronet Chief Juſtice of the Court of Common-pleas, Sir <hi>Robert Hyde</hi> Knight, one of the Justices of the ſaid Court of Common-pleas, Sir <hi>Jeoffry Palmer</hi> Knight and Baronet, the Kings Majeſties Attorney Gene<g ref="char:EOLhyphen"/>rall, Sir <hi>Phillip Warwick</hi> Knight, <hi>John Keeling</hi> one of the Kings Majeſties Serjeants at Law, Sir <hi>John Cutler</hi> Knight and Baronet, <hi>Richard Rainsford,</hi> and <hi>Job Charleton</hi> Serje<g ref="char:EOLhyphen"/>ants at Law, <hi>Thomas Beverly</hi> Eſquire, <hi>Samuel Clark</hi> Eſquire, <hi>James Ravenſcroft</hi> Eſquire, <hi>William Dolben, VVilliam Thursby, John Phillips, John Bathurſt, William Wymon<g ref="char:EOLhyphen"/>deſall, Thomas Lee</hi> Eſquires, <hi>Thomas Nevil, John Sharp, Miles Smyth</hi> and <hi>Richard Topham</hi> Gentlemen, or any three or more of them, for them the ſaid <hi>Edward</hi> Earl of <hi>Cla<g ref="char:EOLhyphen"/>rendon, Thomas</hi> Earl of <hi>Southampton, Gil<g ref="char:EOLhyphen"/>bert</hi> Lord Biſhop of <hi>London,</hi> and <hi>John Bar<g ref="char:EOLhyphen"/>wick,</hi> their Executors and Aſsignes, and as their
+<pb n="6" facs="tcp:172828:5"/>
+               <!-- PDF PAGE 41 -->Commisſioners to order and manage the ſaid ar<g ref="char:EOLhyphen"/>rears, ſumme and ſummes of money, and premiſ<g ref="char:EOLhyphen"/>ſes in and by the ſaid Letters Patents granted as aforeſaid, Giving and Granting unto them, or any three or more of them full power and authori<g ref="char:EOLhyphen"/>ty by virtue of theſe preſents, to ask, demand, ſeize, collect, and receive the ſame arrears, ſum and ſummes of money, and premiſſes aforeſaid, and every or any part or parcell thereof in whoſe hands or cuſtody, or whereſoever the ſame are, ſhall or may be had or found: and to that end to name, conſtitute and appoint ſuch and ſo many Receivers, Deputies, Officers and Agents, for the more ſpeedy and effectuall doing and per<g ref="char:EOLhyphen"/>forming thereof, as they or any three or more of them ſhall think neceſſary or convenient, and to give and allow them ſuch Sallaries and allow<g ref="char:EOLhyphen"/>ances for their care and pains, as the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, or any three or more of them in their diſcretions ſhall think fit: And alſo to commence and proſecute any Action or Suit in Law or E<g ref="char:EOLhyphen"/>quity againſt any perſon or perſons whatſoever that ſhall deny, neglect, or refuſe to make pay<g ref="char:EOLhyphen"/>ment of ſuch of the ſaid moneys and other the premiſſes granted as aforeſaid, as ſhall appear to be by him or them reſpectively due or payable, ac<g ref="char:EOLhyphen"/>cording to the intent of the Act of Parliament aforeſaid, either in his ſaid Majeſties name or
+<pb n="7" facs="tcp:172828:5"/>
+               <!-- PDF PAGE 41 -->in the name or names of the ſaid <hi>Edward</hi> Earl of <hi>Clarendon, Thomas</hi> Earl of <hi>Southamp<g ref="char:EOLhyphen"/>ton, Gilbert</hi> Lord Biſhop of <hi>London,</hi> and <hi>John Barwick,</hi> or the Survivors or Survivor of them their Executors or Aſsignes, and to put in ſuit all Bonds and Securities made or given, or to be made or given for the ſame: And fur<g ref="char:EOLhyphen"/>ther alſo to agree and compound with any perſon or perſons whatſoever for the ſaid arrears, ſumme and ſummes of money and premiſſes aforeſaid, or any part or parcell thereof: And to make and give Acquittances, and other ſufficient diſchar<g ref="char:EOLhyphen"/>ges to all and every perſon and perſons for or upon payment of all or any part of the ſaid ar<g ref="char:EOLhyphen"/>rears, ſumme and ſummes of money, and pre<g ref="char:EOLhyphen"/>miſſes aforeſaid: And likewiſe to ſend for, re<g ref="char:EOLhyphen"/>quire and keep all Papers, Writings, Books and Evidences any wayes concerning the Premiſſes, or any part or parcell thereof, or which may be any wayes uſefull or neceſſary in or about the having or obtaining thereof, in whoſe hands or cuſtody the ſame now are or ſhall be; And ge<g ref="char:EOLhyphen"/>nerally to doe, performe and execute all and e<g ref="char:EOLhyphen"/>very other lawfull and neceſſary Act and Acts, thing and things whatſoever needfull and requi<g ref="char:EOLhyphen"/>ſite to be done, for the obtaining, compounding, levying, receiving, or getting in of the ſaid Ar<g ref="char:EOLhyphen"/>rears, ſumme and ſummes of money and premiſſes
+<pb n="8" facs="tcp:172828:6"/>
+               <!-- PDF PAGE 42 -->aforeſaid, and every part and parcel thereof. And alſo to doe, performe and execute all and e<g ref="char:EOLhyphen"/>very the Grants, Powers, Liberties and Au<g ref="char:EOLhyphen"/>thorities in or by the ſaid recited Letters Patents given or granted, or mentioned to be given or granted, as fully and amply to all intents and purpoſes, as the ſaid <hi>Edward</hi> Earl of <hi>Claren<g ref="char:EOLhyphen"/>don, Thomas</hi> Earle of <hi>Southampton, Gilbert</hi> Lord Biſhop of <hi>London,</hi> and <hi>John Barwick,</hi> or any of them may, might or could doe in their own perſons; hereby ratifying, allowing and con<g ref="char:EOLhyphen"/>firming all whatſoever the ſaid Sir <hi>Orlando Bridgeman,</hi> Sir <hi>Robert Hyde,</hi> Sir <hi>Jeoffry Palmer,</hi> Sir <hi>Phillip Warwick, John Keeling,</hi> Sir <hi>John Cutler, Richard Rainsford, Job Charleton, Thomas Beverley, Samuell Clarke, James Ravenſcroft, William Dol<g ref="char:EOLhyphen"/>ben, VVilliam Thursby, John Phillips, John Bathurſt, VVilliam VVymondeſall, Thomas Lee, Thomas Nevill, John Sharp, Miles Smyth,</hi> and <hi>Richard Topham,</hi> or any three or more of them ſhall doe or cauſe to be done by virtue, or in purſuance of theſe Pre<g ref="char:EOLhyphen"/>ſents, or any the Powers and Authorities here<g ref="char:EOLhyphen"/>by given or granted in or about the perfor<g ref="char:EOLhyphen"/>mance and execution of the premiſſes. In wit<g ref="char:EOLhyphen"/>neſſe whereof the ſaid <hi>Edward</hi> Earle of <hi>Cla<g ref="char:EOLhyphen"/>rendon, Thomas</hi> Earle of <hi>Southampton,
+<pb n="9" facs="tcp:172828:6"/>
+                  <!-- PDF PAGE 42 -->Gilbert</hi> Lord Biſhop of <hi>London,</hi> and Do<g ref="char:EOLhyphen"/>ctor <hi>John Barwick</hi> have hereunto put their hands and Seals the Eighth day of <hi>January,</hi> in the Thirteenth Year of the Reigne of our ſaid Soveraign Lord King <hi>CHARLES</hi> the Second.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>CLARENDON <hi>C.</hi>
+                     </item>
+                     <item>THO. SOUTHAMPTON.</item>
+                     <item>GILBERT LONDON.</item>
+                     <item>JOHN BARWICK.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
